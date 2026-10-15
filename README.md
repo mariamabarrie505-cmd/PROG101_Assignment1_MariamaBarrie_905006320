@@ -1,0 +1,2 @@
+# PROG101_Assignment1_MariamaBarrie_905006320
+Student Attendance Monitoring System for PROG101
